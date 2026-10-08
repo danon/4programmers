@@ -1,0 +1,1 @@
+import{u as n}from"./index-DyJ-3ppJ.js";function c(t){var u;const o=n(),r=o.communityById(t.communityId);return r?`/c/${r.slug}/t/${t.id}`:`/forum/${((u=o.categoryById(t.categoryId))==null?void 0:u.slug)??"off-topic"}/${t.id}`}export{c as t};

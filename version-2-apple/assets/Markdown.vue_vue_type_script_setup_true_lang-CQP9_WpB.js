@@ -1,0 +1,1 @@
+import{r as n}from"./format-BCOSnCBA.js";import{d as r,c as s,h as a,o as c}from"./index-DyJ-3ppJ.js";const p=["innerHTML"],l=r({__name:"Markdown",props:{text:{}},setup(e){const o=e,t=a(()=>n(o.text));return(m,_)=>(c(),s("div",{class:"prose-post",innerHTML:t.value},null,8,p))}});export{l as _};
